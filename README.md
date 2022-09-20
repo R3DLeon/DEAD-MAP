@@ -12,7 +12,7 @@ NOIRPAK.WAD
 DOOMPOTPOURRI.WAD
 MD.WAD
 
-DEAD.wad.bak That File Doesn't Matter Much
+
 MD.WAD Is the music
 
 LOAD ORDER IN GOD COMPLEX
