@@ -31,5 +31,5 @@ reimagined-cf-sounds-v3.3.pk3
 GodComplex_1.1.1.pk3
 MD.WAD
 
-AHORA AQUI - https://www.mediafire.com/file/pd14ttk1a0ps4yk/MD.zip/file
+AHORA AQUI - https://www.mediafire.com/file/unz9i6nod3z7bhx/MD.wad/file
 AQUI PORQUE GITHUB NO AGUANTO XD - https://www.mediafire.com/file/frlhhgs9523g8uo/DEAD.wad/file
